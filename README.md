@@ -1,4 +1,4 @@
-# Excel-Data-Analysis-Car-Sales
+# Excel-Data-Analysis-Car-Sales-Dataset
 Simple Analysis of a car sales dataset, with specific actions performed to clean the data in Excel, analysis with formulas, pivot table, charts and spreadsheet visualization
 ### Source:
 [Kaggle](https://www.kaggle.com/)
