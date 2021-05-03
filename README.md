@@ -25,6 +25,6 @@ first analysis with new column and use of formulas IFS, COUNTIF, SUMIFS and VLOO
 1 table and 7 different pivot tables with chart visualizations
 ### Spreadsheet: 
 2 spreadsheets with several charts, first spreadsheet about total unit sales and total value sales per manufacturers, second spreadsheet with analysis about price and year retention value
-### Link to my Excel worksheet:
+### Link to my Excel workbook:
 [Data Visualization Car Sales ](https://1drv.ms/x/s!Ajw--mdpw7pbgZlGXnLRrjKCmHfqcw?e=7Qrjsp)
 
